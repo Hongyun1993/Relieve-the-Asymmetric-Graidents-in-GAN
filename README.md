@@ -9,4 +9,7 @@ The contributions of this work are as follows. First, we give a new view to anal
 ## Image
 A simple example, the left one is the surface of f(x,y)=log(1-sigmoid(xy)) and the right one is the f(x,y)=log(1-sigmoid(xy)) + log(sigmoid(x)). It is clear that the left image is a symmetrical saddle surface along diagonal lines, but the right image is not.
 
-<img src="https://github.com/Hongyun1993/Relieve-the-Asymmetric-Graidents-in-GAN/blob/master/image/surface-eps-converted-to.pdf" />
+<div id="AfterEffect2">
+    <img src="https://github.com/Hongyun1993/Relieve-the-Asymmetric-Graidents-in-GAN/blob/master/image/surface-eps-converted-to.pdf" />
+</div>
+
